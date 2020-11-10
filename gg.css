@@ -1,0 +1,55 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+nav{
+  background-color: #ffe6e6;
+}
+
+header{
+  background: #ffe6e6;
+}
+
+nav ul{
+  margin: 0;
+}
+
+h2{
+  font-size: 19px;
+}
+
+h1{
+  text-align: center;
+  width: 100%;
+}
+
+li{
+  padding-bottom: 3px;
+  font-size: 15px;
+}
+
+.clm img{
+height: 210px;
+width: 240px;
+float: right;
+}
+
+.clm{
+  padding-bottom: 90px;
+}
+
+table,
+th,
+td {
+  background-color: #ffe6e6;
+  text-align: center;
+  padding: 10px;
+  border: 5px solid #ff8080;
+  border-collapse: collapse;
+}
+
+.mod1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
