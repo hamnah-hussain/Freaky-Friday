@@ -52,10 +52,10 @@ td {
 }
 
 ol{
-   padding-left: : 25px !important;
+   float: center !important;
 }
 ol li{
-   padding-left: 0px !important;
+   float: center !important;
 }
 
 /*
