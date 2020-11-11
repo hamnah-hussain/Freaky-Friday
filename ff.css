@@ -43,8 +43,3 @@ td {
   border: 5px solid #ff8080;
   border-collapse: collapse;
 }
-
-.mod1{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
