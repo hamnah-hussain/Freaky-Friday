@@ -51,12 +51,11 @@ td {
 }
 
 ol{
-   padding-left: : 1.5%;
+   padding-left: : 25px !important;
 }
 ol li{
-   padding-left: 0px;
+   padding-left: 0px !important;
 }
-
 
 /*
 .mod1{
