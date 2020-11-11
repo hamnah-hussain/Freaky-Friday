@@ -1,9 +1,7 @@
-/*
-*{
+body{
   padding: 0;
   margin: 0;
 }
-*/
 
 nav{
   background-color: #ffe6e6;
@@ -53,13 +51,6 @@ td {
   border-collapse: collapse;
 }
 
-ol{
-   position: center !important;
-}
-ol li{
-   position: center !important;
-   padding-bottom: 5px;
-}
 
 /*
 .mod1{
