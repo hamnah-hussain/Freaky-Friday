@@ -52,10 +52,11 @@ td {
 }
 
 ol{
-   float: center !important;
+   position: center !important;
 }
 ol li{
-   float: center !important;
+   position: center !important;
+   padding-bottom: 5px;
 }
 
 /*
