@@ -1,6 +1,6 @@
 *{
-  padding: 0px;
-  margin: auto;;
+  padding: 0;
+  margin: 0;
 }
 
 nav{
@@ -49,10 +49,13 @@ td {
   border-collapse: collapse;
 }
 
-ol {
-   margin : auto;
-   padding: auto !important;
+ol{
+   padding: 0 25px;
 }
+ol li{
+   padding-left: 0px;
+}
+
 
 /*
 .mod1{
