@@ -49,6 +49,11 @@ td {
   border-collapse: collapse;
 }
 
+ol {
+   margin : auto;
+   padding: auto !important;
+}
+
 /*
 .mod1{
   display: grid;
